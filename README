@@ -1,0 +1,48 @@
+# N-Queens Problem
+
+The N-Queens problem is a classic algorithmic challenge that involves placing N queens on an N x N chessboard in such a way that no two queens threaten each other. This means that no two queens can be in the same row, the same column, or on the same diagonal.
+
+## Table of Contents
+- [Problem Description](#problem-description)
+- [Algorithm](#algorithm)
+- [Code Implementation](#code-implementation)
+- [How to Run](#how-to-run)
+- [Example](#example)
+- [License](#license)
+
+## Problem Description
+
+The goal is to find all possible configurations of N queens on an N x N chessboard. The queens must be placed in such a way that they cannot attack each other. This problem can be solved using backtracking, a powerful technique for finding solutions to problems by exploring all possible configurations.
+
+## Algorithm
+
+The solution uses a backtracking algorithm that works as follows:
+
+1. Start from the first row and attempt to place a queen in each column.
+2. For each column, check if placing a queen is safe (i.e., no other queens threaten this position).
+3. If it is safe, place the queen and recursively attempt to place queens in the subsequent rows.
+4. If a solution is found, return it. If not, backtrack by removing the queen and trying the next column.
+5. Repeat until all configurations are explored.
+
+## Code Implementation
+
+The implementation is done in C#. The main components of the program are:
+
+- `CreateBoard(int N)`: Initializes an N x N chessboard.
+- `SolveBoard(char[,] board, int row)`: Attempts to solve the board by placing queens row by row.
+- `isSafe(char[,] board, int row, int col)`: Checks if a queen can be placed at a given position without being attacked.
+- `PrintBoard(char[,] board)`: Displays the current configuration of the board.
+
+## How to Run
+
+1. **Prerequisites**:
+   - Ensure you have the .NET SDK installed on your machine. You can download it from the [official .NET website](https://dotnet.microsoft.com/download).
+
+2. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd N-QueensProblem
+
+3. **Build the Project**:
+  ```bash
+  git clone <dotnet build>
