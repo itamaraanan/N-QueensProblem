@@ -1,0 +1,14 @@
+C:\Users\USER\N-QueensProblem\bin\Debug\net9.0\N-QueensProblem.exe
+C:\Users\USER\N-QueensProblem\bin\Debug\net9.0\N-QueensProblem.deps.json
+C:\Users\USER\N-QueensProblem\bin\Debug\net9.0\N-QueensProblem.runtimeconfig.json
+C:\Users\USER\N-QueensProblem\bin\Debug\net9.0\N-QueensProblem.dll
+C:\Users\USER\N-QueensProblem\bin\Debug\net9.0\N-QueensProblem.pdb
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.AssemblyInfoInputs.cache
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.AssemblyInfo.cs
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.dll
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\refint\N-QueensProblem.dll
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.pdb
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\N-QueensProblem.genruntimeconfig.cache
+C:\Users\USER\N-QueensProblem\obj\Debug\net9.0\ref\N-QueensProblem.dll
